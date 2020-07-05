@@ -1,0 +1,156 @@
+STATION,LINENAME,Elevator
+1 Av,L,0
+103 St,BC,0
+103 St,1,0
+103 St,6,0
+110 St,6,0
+116 St,BC,0
+116 St,6,0
+116 St,23,0
+116 St - Columbia University,1,0
+125 St,4/5/2006,1
+125 St,A/C/B/D,1
+125 St,1,0
+125 St,23,0
+135 St,3,1
+135 St,BC,0
+137 St - City College,1,0
+14 St,FM,0
+14 St,123,0
+14 St - Union Sq,456,0
+14 St-Union Sq,L/N/Q/R/W,1
+14 St/8 Av,A/C/E/L,1
+145 St,AC,0
+145 St,BD,0
+145 St,1,0
+145 St,3,0
+155 St,C,0
+155 St,BD,0
+157 St,1,0
+163 St - Amsterdam Av,C,0
+168 St,A/C only  1 is not accessible,1
+168 St - Washington Hts,1,0
+175 St,A,1
+18 St,1,0
+181 St,A,0
+181 St,1,0
+190 St,A,0
+191 St,1,0
+2 Av,F,0
+207 St,1,0
+215 St,1,0
+23 St,6,1
+23 St,RW,0
+23 St,CE,0
+23 St,FM,0
+23 St,1,0
+28 St,6 downtown only,1
+28 St,RW,0
+28 St,1,0
+3 Av,L,0
+33 St,6,0
+34 St - 11 Av,7,0
+34 St - Herald Sq,BDFM,0
+34 St - Penn Station,123,0
+34 St-Herald Sq,B/D/F/M/N/Q/R/W,1
+34 St-Hudson Yards,7,1
+34 St-Penn Station,1/2/3/A/C/E,1
+42 St - Bryant Pk,BDFM,0
+42 St-Port Authority Bus Terminal,A/C/E,1
+47-50 Sts-Rockefeller Ctr,B/D/F/M,1
+49 St,N/R/W uptown only,1
+5 Av,7,0
+5 Av/53 St,EM,0
+5 Av/59 St,NWR,0
+50 St,C/E downtown only,1
+50 St,1,0
+51 St,6,1
+57 St,F,0
+57 St - 7 Av,NQRW,0
+59 St,456,0
+59 St - Columbus Circle,1,0
+59 St-Columbus Circle,A/C/B/D/1,1
+6 Av,L,0
+66 St-Lincoln Center,1,1
+68 St - Hunter College,6,0
+7 Av,BDE,0
+72 St,1/2/2003,1
+72 St,Q,1
+72 St,BC,0
+77 St,6,0
+79 St,1,0
+8 Av,L,0
+8 St - NYU,RW,0
+81 St - Museum of Natural History,BC,0
+86 St,6 uptown only,1
+86 St,Q,1
+86 St,BC,0
+86 St,1,0
+96 St,1/2/2003,1
+96 St,Q,1
+96 St,BC,0
+96 St,6,0
+Astor Pl,6,0
+Bleecker St,6,1
+Bowery,JZ,0
+Bowling Green,5,1
+Broad St,JZ,0
+Broadway-Lafayette,B/D/F/M,1
+Brooklyn Bridge-City Hall,4/5/2006,1
+Canal St,6 only  J/N/Q/R/W/Z are not accessible,1
+Canal St,RW,0
+Canal St,NQ,0
+Canal St,JZ,0
+Canal St,ACE,0
+Canal St,1,0
+Cathedral Pkwy,1,0
+Cathedral Pkwy (110 St),BC,0
+Central Park North (110 St),23,0
+Chambers St,1/2/2003,1
+Chambers St,JZ,0
+Chambers St,AC,0
+Christopher St - Sheridan Sq,1,0
+City Hall,RW,0
+Cortlandt St,R/W,1
+Delancey St,F,0
+Dyckman St,1 downtown only,1
+Dyckman St,A,0
+East Broadway,F,0
+Essex St,JMZ,0
+Franklin St,1,0
+Fulton St,A/C/J/Z/2/3/4/5,1
+Fulton St,AC,0
+Fulton St,23,0
+Fulton St,45,0
+Grand Central - 42 St,456,0
+Grand Central - 42 St,7,0
+Grand Central - 42 St,S,0
+Grand Central-42 St,4/5/6/7 only S is not accessible,1
+Grand St,BD,0
+Harlem - 148 St,3,0
+Houston St,1,0
+Inwood-207 St,A,1
+Lexington Av/53 St,E/M,1
+Lexington Av/59 St,NWR,0
+Lexington Av/63 St,F/Q,1
+Marble Hill - 225 St,1,0
+Park Pl,23,0
+Prince St,RW,0
+Rector St,RW,0
+Rector St,1,0
+Roosevelt Island,F,1
+South Ferry,1,1
+Spring St,CE,0
+Spring St,6,0
+Times Sq - 42 St,NQRW,0
+Times Sq - 42 St,123,0
+Times Sq - 42 St,7,0
+Times Sq - 42 St,S,0
+Times Square-42 St,N/Q/R/W/1/2/3/7 only S is not accessible,1
+Union Sq - 14 St,L,0
+Wall St,23,0
+Wall St,45,0
+West 4 St-Washington Sq,A/C/E/B/D/F/M,1
+Whitehall St,RW,0
+World Trade Center,E,1
+WTC Cortlandt,1,1
