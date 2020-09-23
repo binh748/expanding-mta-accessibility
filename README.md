@@ -1,6 +1,6 @@
 # Expanding MTA Accessibility
 
-For our [Metis](https://www.thisismetis.com/data-science-bootcamps) EDA group project, we used Pandas to identify five Manhattan subway stations that would most benefit from elevator installation. 
+For our [Metis](https://www.thisismetis.com/data-science-bootcamps) EDA group project, we used pandas to identify five Manhattan subway stations that would most benefit from elevator installation. 
 
 Group members: Tolu, Eliza, Meehir, Ramon, Binh
 
