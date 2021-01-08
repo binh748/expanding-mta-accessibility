@@ -13,7 +13,7 @@ Group members: Tolu, Eliza, Meehir, Ramon, Binh
 
 ## Background
 
-For those with mobility issues, non-ADA compliant NYC subway stations pose both a danger and an extra financial burden. Falls are an unfortunate possibility (see this [example](https://www.nytimes.com/2019/01/29/nyregion/mom-subway-stairs-death-malaysia-goodson.html), and people who cannot take the subway are left with more expensive transportation options. 
+For those with mobility issues, non-ADA compliant NYC subway stations pose a danger and a financial burden. Falls are an unfortunate possibility (see this [example](https://www.nytimes.com/2019/01/29/nyregion/mom-subway-stairs-death-malaysia-goodson.html), and people who cannot take the subway are left with more expensive transportation options. 
 
 ## Data Sources
 
